@@ -1,0 +1,10 @@
+.product{
+    border: 1px solid #eee;
+}
+.product img{
+    width: 286px;
+    height: 286px;
+}
+.btn-cart{
+    width: 100%;
+}
